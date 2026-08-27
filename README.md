@@ -45,6 +45,7 @@ relatorio.pdf — relatório completo do projeto
 Fonte dos dados
 
 Base de músicas mais reproduzidas do Spotify em 2023, disponibilizada no Kaggle/GitHub.
+<github.com/HugoCarvalhoUFRJ/aed/blob/main/materiais-didaticos/spotify-2023-mod.csv>.
 
 ⸻
 
